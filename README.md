@@ -32,5 +32,5 @@
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=ushansankalpa&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ushansankalpa&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=ushansankalpa&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ushansankalpa&theme=tokyonight&hide_border=false)
